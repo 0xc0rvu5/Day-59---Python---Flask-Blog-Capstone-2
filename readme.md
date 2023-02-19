@@ -1,3 +1,3 @@
-# Day-59 of 100 days of Python
+# Flask Blog Capstone 2
 
 ![](Example.gif)
